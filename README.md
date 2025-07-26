@@ -1,6 +1,6 @@
 # Simulasi Lalu Lintas Sederhana
 
-Sebuah proyek tugas Komputer Grafik untuk mendemonstrasikan animasi 2D sederhana menggunakan Java Swing. Aplikasi ini menampilkan sebuah mobil yang bergerak melintasi layar secara berulang.
+Sebuah proyek Komputer Grafik untuk mendemonstrasikan animasi 2D sederhana menggunakan Java Swing. Aplikasi ini menampilkan sebuah mobil yang bergerak melintasi layar secara berulang.
 
 ## Fitur
 * Animasi mobil yang bergerak dari kiri ke kanan.
